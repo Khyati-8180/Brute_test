@@ -20,8 +20,8 @@ Under the guidance of **Nehal Bachani**
     pip install customtkinter pillow
 
 2.Run the main files:
-    python main.py          # Login/Signup Interface
-    python brute_gui.py     # GUI-based Brute Force Simulator
+    **python main.py**             # Login/Signup Interface
+    **python brute_gui.py**        # GUI-based Brute Force Simulator
 
 
 ⚠️ Note:
